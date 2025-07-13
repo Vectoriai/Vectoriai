@@ -15,6 +15,7 @@ Helping people use AI better and creating new ways to think and work with smart 
 💼 About me
 
 * 11+ years of experience in client and partner management, advertising and operations.
+* Participant of [EO Forum](https://eonetwork.org/membership/forum)
 * Hands-on with AI workflows, API integration and no-code tools.
 * Fast learner: building, managing and finding new ways to work with AI.
 
