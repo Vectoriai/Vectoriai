@@ -1,4 +1,3 @@
-<img src="./profile_banner.jpg" alt="Profile banner" style="width:100%;" />
 
 ## <p align="center"> 👋 Hey, I'm Victoria Gromova </p>
 Fast-track AI product lead.
