@@ -49,6 +49,6 @@ Prompt Engineering • API Integration
 ---
 
 📬 Contact me:  
-* [Telegram](https://t.me/tochkaGPTpro) (fastest way to reach me)
+* [Telegram](https://t.me/Qviky) (fastest way to reach me)
 * [RU telegram channel](https://t.me/tochkaGPTpro) about my LLM experiments and AI-companion Eir 
 * [LinkedIn](https://www.linkedin.com/in/thundersvi)
